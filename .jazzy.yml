@@ -1,0 +1,15 @@
+module: UniversalUIKit
+
+author: Philip Niedertscheider
+author_url: https://github.com/philprime
+copyright: '© 2021 [Philip Niedertscheider](https://philpri.me). All rights reserved.'
+github_url: https://github.com/philprime/UniversalUIKit
+
+theme: fullwidth
+
+separate_global_declarations: true
+use_safe_filenames: true
+
+swift_build_tool: spm
+include: Sources/UniversalUIKit/**
+
