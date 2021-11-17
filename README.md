@@ -7,9 +7,10 @@
 A package which wraps similar AppKit and UIKit types, such as NSImage vs. UIImage, into a universal type with necessary polyfills.
 
 * [Documentation](https://philprime.github.io/UniversalUIKit/)
+
 ## Supported types:
 
-| UniversalUIKit | UIKit  | AppKit |
-| --- | --- | --- |
-| UniImage | UIImage | NSImage |
-
+| UniversalUIKit | UIKit   | AppKit  |
+| -------------- | ------- | ------- |
+| UniImage       | UIImage | NSImage |
+| UniColor       | UIColor | NSColor |
