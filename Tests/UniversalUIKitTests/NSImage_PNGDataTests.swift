@@ -1,7 +1,7 @@
     import XCTest
     @testable import UniversalUIKit
 
-    final class NSIMage_PNGDataTests: XCTestCase {
+    final class NSImage_PNGDataTests: XCTestCase {
 
         #if canImport(AppKit)
         func testNSImagePNGData_shouldConvertToPNGData() {
