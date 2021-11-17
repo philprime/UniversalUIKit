@@ -9,3 +9,10 @@ xcuserdata/
 
 # Ruby Gems
 vendor
+
+# +--------------------------+
+# | swift-create-xcframework |
+# +--------------------------+
+
+UniversalUIKit.zip
+UniversalUIKit.sha256
